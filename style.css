@@ -1069,7 +1069,21 @@ footer {
   color: white;
 }
 
-.social-icons .fa {
+.social-icons .fa-brands {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 40px;
+  font-size: 20px;
+  color: #000;
+  background: #5a61cb;
+  margin-right: 15px;
+  cursor: pointer;
+  color: white;
+}
+
+.social-icons .fab {
   width: 40px;
   height: 40px;
   border-radius: 50%;
