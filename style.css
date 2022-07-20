@@ -1044,7 +1044,7 @@ footer {
   margin-bottom: 50px;
 }
 
-.formf .far {
+.formf .fa {
   font-size: 18px;
   margin-right: 10px;
 }
@@ -1064,12 +1064,12 @@ footer {
   cursor: pointer;
 }
 
-.formf button .fas {
+.formf button .fa {
   font-size: 16px;
   color: white;
 }
 
-.social-icons .fab {
+.social-icons .fa {
   width: 40px;
   height: 40px;
   border-radius: 50%;
