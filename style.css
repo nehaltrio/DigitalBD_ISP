@@ -139,7 +139,7 @@ header {
 
   .nav_item {
     margin: 2rem 0;
-    height: 10px;
+    height: 0px;
   }
 
   .show {
